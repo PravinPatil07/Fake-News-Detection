@@ -1,4 +1,4 @@
-# 📰 Fake News Detection
+# Fake News Detection
 
 A machine learning project to detect fake news articles using Logistic Regression and Random Forest classifiers. The project uses TF-IDF vectorization to transform news article content into numerical features.
 
@@ -15,7 +15,7 @@ Each file includes:
 
 These datasets are merged and labeled (`1` for real, `0` for fake) before training.
 
-## ⚙ Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
