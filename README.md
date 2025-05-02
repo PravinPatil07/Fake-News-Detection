@@ -8,6 +8,8 @@ The dataset consists of two CSV files:
 
 - `true.csv`: Real news articles
 - `fake.csv`: Fake news articles
+- Dataset Link:- https://www.kaggle.com/datasets/bhavikjikadara/fake-news-detection 
+
 
 Each file includes:
 - `title`: The headline of the news article
