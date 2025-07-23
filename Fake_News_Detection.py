@@ -8,7 +8,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, confusion_matrix
 
-# Download NLTK stopwords if not already downloaded
+# Download NLTK stopwords
 nltk.download('stopwords')
 from nltk.corpus import stopwords
 
